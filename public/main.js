@@ -4,6 +4,7 @@ async function getData(){
   renderQuote(data);
 }
 
+//New comment
 
 function renderQuote(data){
   let result = document.querySelector('#result');
